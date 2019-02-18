@@ -163,7 +163,7 @@ class NumArray2 {
     }
 
     public int sumRange(int i, int j) {
-
+        return 0;
     }
 }
 
